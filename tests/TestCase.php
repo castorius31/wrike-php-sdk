@@ -14,7 +14,7 @@ namespace Zibios\WrikePhpSdk\Tests;
 /**
  * Test Case.
  */
-abstract class TestCase extends \PHPUnit_Framework_TestCase
+abstract class TestCase extends \PHPUnit\Framework\TestCase
 {
     /**
      * @var string
